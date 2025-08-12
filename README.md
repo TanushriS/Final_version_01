@@ -1,5 +1,5 @@
 # Thermosense  
-*A machine learning-based web application to predict Battery health risks with respect to environmental temperature *  
+A machine learning-based web application to predict Battery health risks with respect to environmental temperature
 
 
 ![Dashboard](https://github.com/TanushriS/assets/blob/main/Final_version_01/dasboard.jpeg)
